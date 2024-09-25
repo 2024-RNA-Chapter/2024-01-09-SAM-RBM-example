@@ -1,4 +1,6 @@
-# Example
+# Example code
+
+This repository hosts example code to train and sample Restricted Boltzmann machines for generative modeling of families of homologous RNA sequences. The code is written in Julia and uses the [RestrictedBoltzmannMachines.jl](https://github.com/cossio/RestrictedBoltzmannMachines.jl) Julia package.
 
 If you encounter any problems, please open an issue on this repository.
 
